@@ -12,4 +12,5 @@ This project involves a simple yet effective codebase utilizing the TensorFlow l
 The neural network has been trained on a dataset comprising cropped photos of these vehicles, enabling it to accurately classify and distinguish between different emergency vehicle types.
 
 Obtained confusion matrix: 
+
 ![Confusion matrix](/photos/confusion_matrix.png)
